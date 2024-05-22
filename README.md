@@ -51,6 +51,6 @@ step5.4 future_forward_offset_by_migration.R, local_forward_reverse_offset.R
 species distribution region based on bioclimate variables: species_distribution.R
 ```
 ### Publication:
-Fan Zhang, Ruicai Long et al. Evolutionary genomics of climatic adaptation and resilience to climate change in alfalfa. DOI:https://doi.org/10.1016/j.molp.2024.04.013 
+Fan Zhang, et al. Evolutionary genomics of climatic adaptation and resilience to climate change in alfalfa. DOI:https://doi.org/10.1016/j.molp.2024.04.013 
 
 ### if you have any questions, please send email to me: zhangfan06@caas.cn or zfan887@gmail.com
